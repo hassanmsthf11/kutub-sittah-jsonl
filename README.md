@@ -42,11 +42,11 @@ with open('offline_sahih_bukhari.jsonl', 'r', encoding='utf-8') as f:
 ```
 
 ## 🤲 Request for Dua
-This project was compiled to serve the Ummah and facilitate access to the Prophetic Sunnah.
+I ask Allah (`Subhanahu Wa Ta'ala`) to accept this humble effort and make it a means of benefit for the Ummah. 
 
-**Please remember the author, Hassan Musthafa, and all those who contributed to this work in your righteous Duas.**
+**Please include the author (Hassan Musthafa) and all those who contributed to this work in your righteous Duas.**
 
-May Allah accept this as Sadaqah Jariyah (continuous charity) and make it a means of guidance for many.
+May Allah make it a Sadaqah Jariyah (continuous charity) and a source of guidance.
 
 ## 📜 License
 This data is provided mainly for educational and development purposes. Please respect the original source attribution (Shamela).
