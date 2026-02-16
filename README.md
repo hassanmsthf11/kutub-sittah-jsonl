@@ -2,7 +2,7 @@
 
 This repository contains the six major books of Hadeeth (Al-Kutub Al-Sittah) in **JSONL (JSON Lines)** format, extracted from the Shamela library. 
 
-This dataset is designed for developers, researchers, and students who need a machine-readable, offline-friendly version of these distinct texts for building Islamic apps, search engines, or AI models.
+This dataset is designed for developers, researchers, and students who need a machine-readable version of these distinct texts for building Islamic apps, search engines, or AI models.
 
 ## 📂 Datasets Included
 
@@ -44,9 +44,7 @@ with open('offline_sahih_bukhari.jsonl', 'r', encoding='utf-8') as f:
 ## 🤲 Request for Dua
 I ask Allah (`Subhanahu Wa Ta'ala`) to accept this humble effort and make it a means of benefit for the Ummah. 
 
-**Please include the author (Hassan Musthafa) and all those who contributed to this work in your righteous Duas.**
-
-May Allah make it a Sadaqah Jariyah (continuous charity) and a source of guidance.
+**Please include Me in your righteous Duas.**
 
 ## 📜 License
 This data is provided mainly for educational and development purposes. Please respect the original source attribution (Shamela).
